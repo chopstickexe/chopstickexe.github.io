@@ -3,27 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://chopstickexe.jp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chopstickexe.jp/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chopstickexe.jp/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://chopstickexe.jp/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://chopstickexe.jp/pages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://chopstickexe.jp/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://chopstickexe.jp/tags/</loc>
     <priority>0</priority>
   </url>
   
