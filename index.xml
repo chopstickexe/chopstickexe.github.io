@@ -9,15 +9,5 @@
 	<atom:link href="https://chopstickexe.jp/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>About</title>
-      <link>https://chopstickexe.jp/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chopstickexe.jp/pages/about/</guid>
-      <description>This is my personal page.
-Special Thanks FaviconはICOOON MONOさんのものを使わせていただきました。どうもありがとうございます。</description>
-    </item>
-    
   </channel>
 </rss>
